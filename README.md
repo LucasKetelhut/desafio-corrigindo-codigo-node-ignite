@@ -1,4 +1,4 @@
-# desafio-modulo01-extra-corrigindo-codigo-node-ignite
+# desafio-corrigindo-codigo-node-ignite
 Desafio extra sobre correção de código do Módulo 01 da trilha de Node.js no Ignite da Rocketseat.
 
 # 💻 Sobre o desafio
